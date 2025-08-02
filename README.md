@@ -28,7 +28,7 @@ To build a strong foundation in Data Structures through practical coding exercis
 
 ## 🛠️ Language Used
 
-- **C Programming Language**
+**C Programming Language**
 
 ## 👨‍💻 About Me
 
@@ -36,7 +36,6 @@ I’m a B.Tech CSE student documenting my learning journey through this reposito
 
 ## 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arin-ghanshala)
+🔗 [LinkedIn](https://www.linkedin.com/in/arin-ghanshala)
 
----
 > 💡 *Feel free to explore the code, suggest improvements, or use it for learning!*
