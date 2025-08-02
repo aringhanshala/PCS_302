@@ -32,7 +32,7 @@ To build a strong foundation in Data Structures through practical coding exercis
 
 ## 👨‍💻 About Me
 
-I’m a B.Tech CSE student documenting my learning journey through this repository. Your suggestions and feedback are always welcome.
+I’m a B.Tech CSE student of batch 2028, documenting my learning journey through this repository. Your suggestions and feedback are always welcome.
 
 ## 📬 Connect with Me
 
